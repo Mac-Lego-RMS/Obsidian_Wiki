@@ -1,0 +1,2 @@
+- Verfügbarkeit sämtlicher Dateien, Link Nextcloud (u.a Fopro und alle Anlagen
+- ==**Ambitioniert in 5 Punkten unsere Ziele formulieren!!**==

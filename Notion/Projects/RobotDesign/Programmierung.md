@@ -1,0 +1,4 @@
+- Unsere generellen Ansätze beim Programmieren
+- unsere Erfahrungen mit Gyro(-drift)
+- Erläuterung von Beispielcode
+- Auskommentierung des Codes
